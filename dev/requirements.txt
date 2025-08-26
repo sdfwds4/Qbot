@@ -28,3 +28,4 @@ efinance
 akshare
 baostock
 pandas_datareader
+easytrader

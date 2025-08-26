@@ -27,3 +27,4 @@ yfinance
 efinance
 akshare
 pandas_datareader
+easytrader
